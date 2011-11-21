@@ -1,0 +1,6 @@
+Revision history for Perl extension SharePoint::SOAPHandler.
+
+0.0011  Tue Aug 23 10:31:32 2011
+	- original version; created by h2xs 1.23 with options
+		-XAOa -b 5.8.0 --skip-exporter --skip-autoloader -v0.0011 -nSharePoint::SOAPHandler
+

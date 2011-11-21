@@ -1,0 +1,6 @@
+Revision history for Perl extension CopyTree::VendorProof::LocalFileOp.
+
+0.0011  Mon Aug 22 15:08:45 2011
+	- original version; created by h2xs 1.23 with options
+		-XAOa -b 5.8.0 --skip-exporter --skip-autoloader -v0.0011 -nCopyTree::VendorProof::LocalFileOp
+

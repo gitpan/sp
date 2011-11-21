@@ -1,0 +1,6 @@
+Revision history for Perl extension CopyTree::VendorProof.
+
+0.0011  Thu Aug 18 10:41:05 2011
+	- original version; created by h2xs 1.23 with options
+		-b 5.8.0 -Xa -v0.0011 -nCopyTree::VendorProof -O
+

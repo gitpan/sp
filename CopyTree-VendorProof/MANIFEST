@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/CopyTree-VendorProof.t
+lib/CopyTree/VendorProof.pm
